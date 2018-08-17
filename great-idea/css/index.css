@@ -64,3 +64,103 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
+.navigation {
+	color: grey;
+	display: flex;
+	flex-direction: row;
+	padding: 0px;
+	text-decoration: none;
+	margin: 40px 40px 40px 80px;
+	justify-content: space-evenly;
+}
+.navigationItems {
+	color: grey;
+	padding: 0px;
+	text-decoration: none;
+	margin-left: 0px;
+}
+.logo {
+	margin-left: 40px;
+    margin-bottom: -14px;
+}
+.head {
+	position: relative;
+    display: flex;
+    padding: 30px;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 86px;
+    margin-right: 40px;
+}
+.image {
+	margin-bottom: 0px;
+    margin-top: 0px;
+}
+.textpic {
+	display: flex;
+	flex-direction: row;
+	margin-top:	20px;
+	margin-left: 120px;
+}
+hr {
+	text-align: center;
+}
+.getit {
+	padding: 10px;
+	font-size: 24px;
+	font-family: serif;
+	margin: 0px 0px 0px 220px;
+	padding-left: 25px;
+    padding-right: 25px;
+    border-width: 5px;
+	border: solid dimgray;
+}
+.topdata {
+	font-size: 21px;
+	display: flex;
+	margin: 40px 80px 40px 200px;
+	text-align:left;
+}
+.para3 {
+	margin: 100px 210px 100px 200px;
+}
+.bottomdata {
+	display: flex;
+	flex-direction: row;
+	font-size: 21px;
+	position: relative;
+	margin: 80px 80px 80px 200px;
+}
+.address {
+	font-size: 18px;
+	margin: 20px 0px 40px 220px;
+}
+footer {
+	text-align: center;
+}
+.para4 {
+	padding: 20px;
+	width: 290px;
+	height: 100px;
+}
+.para5 {
+	padding: 20px;
+	width: 290px;
+	height: 100px;
+}
+.para6 {
+	padding: 20px;
+	width: 290px;
+	height: 100px;
+}
+.para1 {
+	padding: 20px;
+	width: 450px;
+	height: 100px;
+}
+.para2 {
+	padding: 20px;
+	width: 450px;
+	height: 100px;
+}
